@@ -1,4 +1,4 @@
-#  LOCAL IN: Neurbia - Connector
+#  LOCAL IN: Neurbia - Identity hub + Issuer
 Neurbia is a shared data space for local authorities, built on [Eclipse Dataspace Components (EDC)](https://projects.eclipse.org/projects/technology.edc).
 
 It brings together an EDC [Connector](https://github.com/eclipse-edc/Connector), [Identity Hub](https://github.com/eclipse-edc/IdentityHub) and [Federated Catalog](https://github.com/eclipse-edc/FederatedCatalog), alongside a [Clearing House](https://github.com/International-Data-Spaces-Association/IDS-G/tree/main/Components/ClearingHouse).
